@@ -1,0 +1,21 @@
+
+
+(defsrc 
+  f1    f2   f3   f4   f5                       f6    f7   f8   f9   f10
+  =     1    2    3    4    5              6    7    8    9    0    -
+  tab   q    w    f    p    b              j    l    u    y    ;    \
+  esc   a    r    s    t    g              m    n    e    i    o    '
+  grv   x    c    d    v    z   lsft lctl lower lmet rctl rsft k    h    ,    .    /    pgup
+  magic home end  lft  rgt      bspc del  lalt ralt ret  spc      up   down [    ]    pgdn
+)
+
+
+
+(deflayer symbols 
+  f1    f2   f3   f4   f5                       f6    f7   f8   f9   f10
+  =     1    2    3    4    5              6    7    8    9    0    -
+  tab   q    w    f    p    b              j    l    u    y    ;    \
+  esc   a    r    s    t    g              m    n    e    i    o    '
+  grv   x    c    d    v    z   lsft lctl lower lmet rctl rsft k    h    ,    .    /    pgup
+  magic home end  lft  rgt      bspc del  lalt ralt ret  spc      up   down [    ]    pgdn
+)
